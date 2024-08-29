@@ -1,0 +1,568 @@
+<div class="main">
+            <div class="grid-items">
+                <div class="tumb-title tumb">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title tumb">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title tumb">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                </div>
+            </div>
+            <div class="grid-items margin">
+                <div class="tumb-title tumb">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+            <div class="grid-items">
+                <div class="tumb-title tumb">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>desafio 03</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+    <header>
+        <section>
+            <div class="container" id="container-1">
+                <div class="icone" id="icone-1" style="position: relative;">
+                    <div>
+                        <span style="font-size: large;">
+                            <img src="assets/images/barrahamburger.png" style="width: 34px; height: 34px;">
+                        </span>
+                        <span>
+                            <img src="/assets/images/youtube-logo-0.png" style="width: 220px; height: 250px; margin: 0px; padding: 0px; position: absolute; top: -95px; left: 70px;">
+                        </span>
+                    </div>
+                </div>
+                <div class="icone" id="icone-2">
+                    <form class="formulario" action="" method="post" >
+                        <div class="input-group" style="position: relative;" style="display: flex;">
+                            <div class="input">
+                                <input type="text" placeholder="Search..." style="background: #f3f6f8; min-width: 300px; height: 24px; box-shadow: inset 0px 0px 0px;">
+                            </div>
+                            <div>
+                                <span>
+                                    <img src="/assets/images/lupa.png" style="width: 31px; height: 31px; position: absolute; top: 0px; left: 305px;">
+                                </span>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="icone" id="icone-3">
+                    <div class="right-side" style="display: flex; gap: 20px;">
+                        <div class="botao-criar">
+                            <button style="font-size: large; width: 100px; height: 34px; background-color: #f3f6f8; border-radius: 30px;">
+                                <b>+ criar</b>
+                            </button>
+                        </div>
+                        <div>
+                            <span><img src="/assets/images/notificacao.png" style="width: 31px; height: 31px;"></span>
+                        </div>
+                        <div>
+                            <span><img src="/assets/images/perfil.png" style="width: 34px; height: 34px;"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </header>
+    <main>
+        <div class="main">
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items margin">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items margin">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items margin">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items margin">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items margin">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-items margin">
+                <div class="tumb-title">
+                    <span>
+                        <img src="/assets/images/images.jpeg" style="width: 34px; height: 34px;" alt="">
+                    </span>
+                    <div class="title-group">
+                        <span>
+                            <img src="/assets/images/perfil.png" style="width: 34px; height: 34px;" alt="">
+                        </span>
+                        <p>Como aprender a programar python do ZERO <br>
+                        <small class="small cinza">711 views <br>
+                        transmitido 2 dias</small></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="barra-lateral">
+            <div class="barra-lateral-flexbox">
+                <div class="flex-items items-flexbox">
+                    <span>
+                        <img src="/assets/images/inicio.png" style="width: 31px; height: 31px;">
+                    </span>
+                    <div>
+                        <p>Inicio</p>
+                    </div>
+                </div>
+                <div class="flex-items items-flexbox">
+                    <span>
+                        <img src="/assets/images/explorar.png" style="width: 31px; height: 31px;">
+                    </span>
+                    <div>
+                        <p>Explorar</p>
+                    </div>
+                </div>
+                <div class="flex-items items-flexbox">
+                    <span>
+                        <img src="/assets/images/inscricoes.png" style="width: 31px; height: 31px;">
+                    </span>
+                    <div>
+                        <p>Inscrisoes</p>
+                    </div>
+                </div>
+                <div class="flex-items items-flexbox">
+                    <span>
+                        <img src="/assets/images/youtubeMusic.png" style="width: 31px; height: 31px;">
+                    </span>
+                    <div>
+                        <p>Youtube Music</p>
+                    </div>
+                </div>
+                <div class="flex-items items-flexbox">
+                    <span>
+                        <img src="/assets/images/like.png" style="width: 31px; height: 31px;">
+                    </span>
+                    <div>
+                        <p>Videos que gostei</p>
+                    </div>
+                </div>
+                <div class="flex-items items-flexbox">
+                    <span>
+                        <img src="/assets/images/assistirMaisTardeFlaticon.png" style="width: 31px; height: 31px;">
+                    </span>
+                    <div>
+                        <p>Assistir mais tarde</p>
+                    </div>
+                </div>
+                <div class="flex-items items-flexbox">
+                    <span>
+                        <img src="/assets/images/download2.png" style="width: 31px; height: 31px;">
+                    </span>
+                    <div>
+                        <p>Download</p>
+                    </div>
+                </div>
+                <div class="flex-items items-flexbox">
+                    <span>
+                        <img src="/assets/images/inicio.png" style="width: 31px; height: 31px;">
+                    </span>
+                    <div>
+                        <p>inicio</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer>
+        
+    </footer>
+</body>
+</html>

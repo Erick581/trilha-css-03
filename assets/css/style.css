@@ -1,0 +1,68 @@
+body {
+    background-color: white;
+}
+
+#container-1 {
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+}
+
+.icone {
+    padding:15px;
+    margin: 1px;
+}
+
+.cinza {
+    color: rgb(59, 59, 59);
+    margin: 0px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-rows: repeat(6, 320px);
+    grid-template-columns: repeat(4, 340px);
+    gap: 40px 50px;
+    justify-content: end;
+    max-width: 1860px;
+    height: 1200px;
+    margin-top: 70px;
+    
+}
+
+.group-title {
+    display: flex;
+    gap: 8px;
+}
+
+.group-title p {
+    margin: 2px;
+    padding: 0px;
+}
+
+
+
+/*barra lateral*/
+
+.barra-lateral-flexbox {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 250px;
+    padding: 20px;
+    position: absolute;
+    top: 82px;
+    left: 3px;
+}
+
+.items-flexbox {
+    display: flex;
+    gap: 0px;
+}
+
+.items-flexbox p {
+    margin: 0px;
+    padding: 14px;
+    font-size: large;
+    font-weight: 500;
+}
